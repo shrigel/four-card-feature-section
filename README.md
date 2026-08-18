@@ -16,6 +16,10 @@ This is my solution to the **Four Card Feature Section** challenge on Frontend M
 - Semantic HTML5
 - CSS3
 - SCSS / Sass
+- Flexbox
+- CSS Custom Properties
+- Responsive Design
+- Media Queries
 - Google Fonts (Poppins)
 
 ## Layout
